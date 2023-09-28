@@ -1,5 +1,5 @@
 # Task 2
-Use `npm run dev` to run this project.
+Use `npm run dev` to run this project or view with the url, https://capital-placement-uitask.netlify.app
 --
 ![Screenshot (77)](https://github.com/pysavantcodes/Capital-Placement-Task-2/assets/110984357/3de282e4-1685-4bc4-be47-43b32b887e44)
 --
